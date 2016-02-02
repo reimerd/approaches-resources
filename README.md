@@ -84,7 +84,7 @@
 [vmr]: http://vmr.bham.ac.uk/
 [tll]: http://ezproxy.is.ed.ac.uk/login?url=http://www.degruyter.com/db/tll
 [tlg]: http://www.ezproxy.is.ed.ac.uk/login?url=https://stephanus.tlg.uci.edu
-[per]: www.perseus.tufts.edu/hopper/collection?collection=Perseus:collection:Greco-Roman
+[per]: http://www.perseus.tufts.edu/hopper/collection?collection=Perseus:collection:Greco-Roman
 [ocp]: http://ocp.stfx.ca/
 [PACE]: http://pace-ancient.mcmaster.ca/york/york/index.htm
 [pap]: http://papyri.info/
