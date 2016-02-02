@@ -136,9 +136,11 @@
 
 - [Brill] - excellent and extensive coverage
 - [SBL BibLit][sbl] (no italics!)
+- [Charis SIL][csil]
 - [Gentium Plus][genp]
 - [TeX Gyre Pagella][texgp] - a Palatino clone with extensive glyph coverage
 
+[csil]: http://software.sil.org/charis/
 [texgp]: http://www.fontsquirrel.com/fonts/TeX-Gyre-Pagella
 [genp]: http://software.sil.org/gentium/
 [Brill]: http://www.brill.com/about/brill-fonts
