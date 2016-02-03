@@ -77,7 +77,10 @@
   - View images and transcriptions of NT manuscripts
 - [Loeb Classical Library Online][loeb]
   - Loebclassics.com, via UoE library web site
+- [West Semitic Research Project][wsrp]
+  - Digital images of Assyriological Texts; Ugaritic Tablets; DSS; Elephantine Papyri; Leningrad Codex; other tablets, papyri, texts; requires registration for 'scholarly' site
 
+[wsrp]: http://www.usc.edu/dept/LAS/wsrp/
 [apis]: http://papyri.info/docs/apis
 [hal]: http://halakhah.com/
 [loeb]: http://ezproxy.is.ed.ac.uk/login?url=http://www.loebclassics.com
