@@ -153,6 +153,31 @@
 [gfs]: http://www.greekfontsociety.gr/pages/en_typefaces20th.html
 [sbl]: http://www.sbl-site.org/educational/biblicalfonts.aspx
 
+# Software Tools
 
+## Word Processors
 
+- MS Word is the industry standard, but still can be problematic for RTL on a Mac
+- [Mellel] is a popular choice for Mac, providing good RTL tools, but also some file-compatibility issues for a Word-orientated publishing world
+- [LibreOffice Writer][libo] is a fine writing tool (especially when used with Linux Libertine fonts in the Graphite version), and can produce very good .DOC files for Word-only needs; see also [Apache OpenOffice][aoo] a related product.
+- There are other specialty options, e.g. [Nota Bene][nobe], which are worth exploring.
 
+[Mellel]: http://www.mellel.com/mellel/
+[libo]: https://www.libreoffice.org/
+[aoo]: https://www.openoffice.org/
+[nobe]: https://www.notabene.com/
+
+## Reference managers
+
+- [Endnote] is centrally supported by the university, and training is offered for both [desktop][endd] and [online][endo] versions.
+- [Zotero] and [Mendeley] are both popular online options and worth exploring; free versions have some limitations.
+- A slightly dated (2013) of "free" alternatives can be found in "[Best Free Bibliographic Database Software][bfbd]"; its links are still worth exploring.
+- Those using a Mac might want to look at [Bookends][bken].
+
+[Mendeley]: https://www.mendeley.com/
+[Zotero]: https://www.zotero.org/
+[Endnote]: http://endnote.com/
+[endd]: http://www.ed.ac.uk/information-services/help-consultancy/is-skills/catalogue/text-catalogue/endnote-managing
+[endo]: http://www.ed.ac.uk/information-services/help-consultancy/is-skills/catalogue/text-catalogue/endnote-web-intro
+[bfbd]: http://www.techsupportalert.com/content/best-free-bibliographic-database-software-stub-only.htm
+[bken]: http://www.sonnysoftware.com/bookends/bookends.html
