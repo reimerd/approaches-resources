@@ -109,8 +109,9 @@
 - [Worldcat.org][wcat]
   - Aggregator of library catalogs, tells you where the closest copy of a book is
 - [Archive.org][archo]
-  - Repository of scanned past-copyright books
+  - Repository of scanned past-copyright books; see, e.g., this listing of [older ICC volumes available][icc].
 
+[icc]: http://guides.library.duke.edu/c.php?g=289359&p=1933919
 [ixth]: http://www.ixtheo.de/cgi-bin/ixtheo/maskeeng.pl?db=ixtheo
 [BILDI]: http://www.uibk.ac.at/bildi/bildi/search/index.html.en
 [ATLA]: http://ezproxy.lib.ed.ac.uk/login?url=http://search.epnet.com/login.asp?profile=web&defaultdb=rfh
