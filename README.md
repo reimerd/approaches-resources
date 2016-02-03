@@ -2,7 +2,7 @@
 
 # Electronic Biblical Texts
 
-## Proprietary Texts
+## Proprietary Software
 
 - [Accordance][ac]
 - [BibleWorks][bw]
