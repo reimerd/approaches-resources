@@ -138,8 +138,10 @@
 - [SBL BibLit][sbl] (no italics!)
 - [Charis SIL][csil]
 - [Gentium Plus][genp]
+- [Linux Libertine][linl]
 - [TeX Gyre Pagella][texgp] - a Palatino clone with extensive glyph coverage
 
+[linl]: http://www.linuxlibertine.org/index.php?id=2&L=1
 [csil]: http://software.sil.org/charis/
 [texgp]: http://www.fontsquirrel.com/fonts/TeX-Gyre-Pagella
 [genp]: http://software.sil.org/gentium/
